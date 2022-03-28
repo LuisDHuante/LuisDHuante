@@ -6,10 +6,6 @@ I’m a Data Science student at UNAM ENES Morelia.
 <br/> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisDHuante&show_icons=true&theme=github_dark)
 
 ## Used technologies
-1. Python
-2. Pandas
-3. Linux
-4. Jupyter
 
 ## Contact
 Mail: luisdhuante@gmail.com
