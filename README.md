@@ -8,7 +8,6 @@ I’m a Data Science student at UNAM ENES Morelia.
 ## Used technologies
 
 ## Contact
-E-Mail: luisdhuante@gmail.com
 <!---
 LuisDHuante/LuisDHuante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
