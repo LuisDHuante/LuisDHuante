@@ -1,6 +1,6 @@
 # 👋🏻 Hi! I’m Luis David Huante
 I’m a Data Science student at UNAM ENES Morelia. 
-1. 💻 My main interests are **Data Science**, **Machine Learning** and **Deep Learning** 
+1. 💻 My main interests are **Data Science**, **Machine Learning** and **Deep Learning**.
 2. 🧠 I'm also interested in **Neuroscience**, **Psychology** and **Cognitive Science**. <br/>
 <br/> 
 
