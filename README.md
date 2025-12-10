@@ -4,8 +4,6 @@ I’m a Data Science graduate from UNAM ENES Morelia.
 2. 🧠 I'm also interested in **Neuroscience**, **Psychology** and **Cognitive Science**. <br/>
 <br/> 
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=LuisDHuante&show_icons=true&theme=github_dark">
-
 
 ## Used technologies
 <p align="center">
